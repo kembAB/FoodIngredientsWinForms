@@ -1,0 +1,10 @@
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\bin\Debug\AssignmentFive.exe.config
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\bin\Debug\AssignmentFive.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\bin\Debug\AssignmentFive.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.csprojResolveAssemblyReference.cache
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.Properties.Resources.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.csproj.GenerateResource.Cache
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.FormMain.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment5\AssignmentFive\AssignmentFive\obj\Debug\AssignmentFive.FormIngredient.resources
